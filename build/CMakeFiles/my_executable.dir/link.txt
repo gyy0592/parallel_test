@@ -1,0 +1,1 @@
+/usr/bin/x86_64-linux-gnu-g++-7   -fopenmp -g   CMakeFiles/my_executable.dir/sources/test.cpp.o CMakeFiles/my_executable.dir/sources/benchmark.cpp.o  -o my_executable libbenchmark.a /usr/lib/gcc/x86_64-linux-gnu/7/libgomp.so -lpthread 

@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../headers/benchmark.h
+stdio.h
+-
+
+/home/ubuntu/program/github_rep/parallel_test/sources/benchmark.cpp
+benchmark.h
+/home/ubuntu/program/github_rep/parallel_test/sources/benchmark.h
+

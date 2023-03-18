@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/ubuntu/program/github_rep/parallel_test/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -I/home/ubuntu/program/github_rep/parallel_test/headers -I/home/ubuntu/program/github_rep/parallel_test/sources   -fopenmp -g   -fopenmp -o CMakeFiles/my_executable.dir/sources/test.cpp.o -c /home/ubuntu/program/github_rep/parallel_test/sources/test.cpp",
+  "file": "/home/ubuntu/program/github_rep/parallel_test/sources/test.cpp"
+},
+{
+  "directory": "/home/ubuntu/program/github_rep/parallel_test/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -I/home/ubuntu/program/github_rep/parallel_test/headers -I/home/ubuntu/program/github_rep/parallel_test/sources   -fopenmp -g   -fopenmp -o CMakeFiles/my_executable.dir/sources/benchmark.cpp.o -c /home/ubuntu/program/github_rep/parallel_test/sources/benchmark.cpp",
+  "file": "/home/ubuntu/program/github_rep/parallel_test/sources/benchmark.cpp"
+},
+{
+  "directory": "/home/ubuntu/program/github_rep/parallel_test/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -I/home/ubuntu/program/github_rep/parallel_test/headers   -fopenmp -g   -o CMakeFiles/benchmark.dir/sources/benchmark.cpp.o -c /home/ubuntu/program/github_rep/parallel_test/sources/benchmark.cpp",
+  "file": "/home/ubuntu/program/github_rep/parallel_test/sources/benchmark.cpp"
+}
+]

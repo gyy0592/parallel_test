@@ -44,7 +44,7 @@ auto start = std::chrono::high_resolution_clock::now();
         printf("Task %d, thread %d\n", task_id, thread_id);
 
         // Call the benchmark function with some arguments
-        benchmark1(2*10e10);
+        benchmark1(10e11);
     }
 }
 auto end = std::chrono::high_resolution_clock::now();

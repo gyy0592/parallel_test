@@ -1,0 +1,4 @@
+/home/ubuntu/program/github_rep/parallel_test/build/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/program/github_rep/parallel_test/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/program/github_rep/parallel_test/build/CMakeFiles/my_executable.dir
+/home/ubuntu/program/github_rep/parallel_test/build/CMakeFiles/benchmark.dir
